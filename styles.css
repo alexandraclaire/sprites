@@ -1,0 +1,156 @@
+/*Social Channels
+--------------------------------------*/
+
+.social-media {
+	
+	list-style:none;
+	padding:0;
+
+	}
+
+.social-media li {
+
+	margin-right:.5em;
+	border-radius:3px;
+	float:left;
+
+}	
+
+.social-media li a {
+
+	display:block;
+
+}
+
+.youtube a {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+
+
+}
+
+.youtube a:hover {
+
+		background:url(images/sprite.png);
+		background-position:0 33px;
+}
+
+.twitter a {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-33px 0px;
+}
+
+.twitter a:hover {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-33px 33px;
+}
+
+.pinterest a {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-66px 0;
+}
+
+.pinterest a:hover {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-66px 33px;
+}
+
+
+.linkedin a {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-99px 0;
+}
+
+.linkedin a:hover {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-99px 33px;
+}
+
+
+.googleplus a {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-132px 0;
+}
+
+.googleplus a:hover {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-132px 33px;
+}
+
+
+.github a {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-165px 0;
+}
+
+.github a:hover {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-165px 33px;
+}
+
+
+.flickr a {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-198px 0;
+}
+
+.flickr a:hover {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-198px 33px;
+}
+
+
+.facebook a {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-231px 0;
+}
+
+.facebook a:hover {
+
+		width:33px;
+		height:33px;
+		background:url(images/sprite.png);
+		background-position:-231px 33px;
+}
+
